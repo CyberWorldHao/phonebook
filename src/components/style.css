@@ -1,0 +1,18 @@
+.container {
+  padding: 5%;
+}
+
+.setleft {
+  text-align: left;
+}
+
+.enter {
+  width: 100%;
+}
+body {
+  background-image: linear-gradient(
+    rgb(255, 0, 221),
+    rgb(0, 255, 242),
+    rgb(255, 148, 16)
+  );
+}
